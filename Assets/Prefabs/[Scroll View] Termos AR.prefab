@@ -1,0 +1,1198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1630542217293416}
+  m_IsPrefabParent: 1
+--- !u!1 &1005775411902226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224878690167569392}
+  - component: {fileID: 222979972845987452}
+  - component: {fileID: 114242413079149994}
+  - component: {fileID: 114207889387269572}
+  m_Layer: 5
+  m_Name: Scrollbar Horizontal
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1026330842820824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224970348158831072}
+  - component: {fileID: 222096520394879344}
+  - component: {fileID: 114752210215371552}
+  m_Layer: 5
+  m_Name: '[Image] Background'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1165344359612650
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224323551774328752}
+  m_Layer: 5
+  m_Name: Sliding Area
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1188132043405608
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224494602847352582}
+  - component: {fileID: 222054351930467664}
+  - component: {fileID: 114306721304991318}
+  - component: {fileID: 114966981161892270}
+  m_Layer: 5
+  m_Name: '[Text] Label'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1283515313883590
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224975441494096862}
+  - component: {fileID: 222216309576275548}
+  - component: {fileID: 114919060081755060}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1480262297077236
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224827990651152842}
+  - component: {fileID: 222353362865954010}
+  - component: {fileID: 114026056640011508}
+  m_Layer: 5
+  m_Name: Handle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1505576216232442
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224103066246170606}
+  m_Layer: 5
+  m_Name: Content
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1630542217293416
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224755273020575870}
+  - component: {fileID: 114315595751302204}
+  - component: {fileID: 222589628461505104}
+  - component: {fileID: 114065268519405854}
+  - component: {fileID: 114574653848668574}
+  m_Layer: 5
+  m_Name: '[Scroll View] Termos AR'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1645784795837878
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224517410379963148}
+  - component: {fileID: 114566614680803354}
+  - component: {fileID: 222961320826310620}
+  - component: {fileID: 114812139258443246}
+  m_Layer: 5
+  m_Name: Viewport
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1657965742753182
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224949333045135682}
+  m_Layer: 5
+  m_Name: Sliding Area
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1739619185719662
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224022175035845972}
+  - component: {fileID: 222915069774823040}
+  - component: {fileID: 114603960633043272}
+  m_Layer: 5
+  m_Name: '[Button] Confirmar'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1786432474508250
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224213522374121100}
+  - component: {fileID: 222971272002277286}
+  - component: {fileID: 114555962755243842}
+  m_Layer: 5
+  m_Name: Handle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1801927223928028
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224675509999018700}
+  - component: {fileID: 222694736960262774}
+  - component: {fileID: 114458613597232686}
+  m_Layer: 5
+  m_Name: '[Text] Text (11)'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1940687467529092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 224413965086186408}
+  - component: {fileID: 222778306514749272}
+  - component: {fileID: 114120075152317802}
+  - component: {fileID: 114625180728266300}
+  m_Layer: 5
+  m_Name: Scrollbar Vertical
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &114026056640011508
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1480262297077236}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114065268519405854
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1630542217293416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114120075152317802
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1940687467529092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114207889387269572
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1005775411902226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114026056640011508}
+  m_HandleRect: {fileID: 224827990651152842}
+  m_Direction: 0
+  m_Value: 0
+  m_Size: 1
+  m_NumberOfSteps: 0
+  m_OnValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.Scrollbar+ScrollEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114242413079149994
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1005775411902226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114306721304991318
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1188132043405608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 5e745eabe7dee564385fda8c50286751, type: 3}
+    m_FontSize: 174
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 1
+    m_MaxSize: 300
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: CONFIRMAR
+--- !u!114 &114315595751302204
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1630542217293416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Content: {fileID: 224103066246170606}
+  m_Horizontal: 0
+  m_Vertical: 1
+  m_MovementType: 1
+  m_Elasticity: 0.1
+  m_Inertia: 1
+  m_DecelerationRate: 0.135
+  m_ScrollSensitivity: 1
+  m_Viewport: {fileID: 224517410379963148}
+  m_HorizontalScrollbar: {fileID: 114207889387269572}
+  m_VerticalScrollbar: {fileID: 114625180728266300}
+  m_HorizontalScrollbarVisibility: 2
+  m_VerticalScrollbarVisibility: 2
+  m_HorizontalScrollbarSpacing: -3
+  m_VerticalScrollbarSpacing: -3
+  m_OnValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.ScrollRect+ScrollRectEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114458613597232686
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1801927223928028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.019607844, g: 0.098039225, b: 0.25882354, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: cbdb8fded1dc5dd4cb74e2466980c30c, type: 3}
+    m_FontSize: 200
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 1
+    m_MaxSize: 300
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "TERMOS DE USO E A POL\xCDTICA DE PRIVACIDADE \u2013 MUNDO PUKET\r\n\r\nO
+    presente texto tem o objetivo de regular as especifica\xE7\xF5es de acesso e utiliza\xE7\xE3o
+    do Mundo Puket, aplicativo desenvolvido pela Animatto Webcom Ltda em parceria
+    com a Puket Ltda, no conjunto de \u201CProvedora\u201D.\r\n\r\nEste aplicativo
+    foi criado para o p\xFAblico usu\xE1rio de produtos da nova cole\xE7\xE3o da Puket,
+    sejam crian\xE7as, adolescentes ou adultos. Entretanto, nos casos de crian\xE7as
+    que desejarem utiliz\xE1-lo, \xE9 essencial que o fa\xE7am com o acompanhamento
+    ou monitoramento dos respons\xE1veis (no conjunto de \u201CRespons\xE1vel\u201D).\r\n\r\nCom
+    o Mundo Puket instalado em um aparelho compat\xEDvel, a crian\xE7a poder\xE1 interagir
+    com os personagens, definindo a\xE7\xF5es a serem executadas por eles como tamb\xE9m
+    tirando fotos com os bichinhos. \xC9, portanto, uma ferramenta disponibilizada
+    pela Puket com o intuito de est\xEDmulo \xE0 criatividade, n\xE3o somente de crian\xE7as,
+    como tamb\xE9m de jovens e adultos que ir\xE3o interagir junto com a crian\xE7a.\r\n\r\nOutro
+    detalhe \xE9 sobre a import\xE2ncia de que este documento seja aplicado e interpretado
+    de acordo com as disposi\xE7\xF5es da Pol\xEDtica de Privacidade.\r\n\r\n1. Aceita\xE7\xE3o
+    dos Termos\r\n\r\nA leitura atenta ao teor de todos estes Termos dever\xE1 ser
+    feita pelo Respons\xE1vel e, caso ele concorde com as disposi\xE7\xF5es apresentadas,
+    ele dever\xE1 manifestar seu consentimento livre, expresso e informado sobre este
+    documento. Ao clicar no bot\xE3o \u201CLi e aceito os Termos de Uso e a Pol\xEDtica
+    de Privacidade\u201D, o Respons\xE1vel dar\xE1 seu aceite. Caso o Usu\xE1rio discorde
+    do disposto nos Termos, dever\xE1 se abster de usar o Aplicativo.\r\n\r\n1.1 Ao
+    aceitar os presentes Termos, o Usu\xE1rio declara ser, \xE0 luz da legisla\xE7\xE3o
+    brasileira, o Respons\xE1vel legal da Crian\xE7a que usar\xE1 o Aplicativo, devendo
+    zelar pelos direitos,  imagem e reputa\xE7\xE3o da Crian\xE7a, bem como sua utiliza\xE7\xE3o
+    do Aplicativo e o conte\xFAdo incorporado a ele.\r\n\r\n2. Aplicativo: Acesso
+    e Utiliza\xE7\xE3o\r\n\r\n2.1 O download do presente Aplicativo pode ser feito
+    na App Store ou pela Google Play Store. Ap\xF3s baixar, basta o usu\xE1rio aceitar
+    a Pol\xEDtica de Privacidade e Uso dos presentes Termos.\r\n\r\n2.2 O Mundo Puket
+    \xE9 um aplicativo que utiliza a tecnologia de realidade aumentada (AR) para proporcionar
+    a experi\xEAncia do Usu\xE1rio com as estampas da marca Puket. Quando a c\xE2mera
+    do aparelho que possui o aplicativo instalado for apontada para os personagens,
+    os mesmos ir\xE3o ser exibidos em realidade aumentada, movimentando-se e permitindo
+    intera\xE7\xF5es com o(s) Usu\xE1rio(s).\r\n\r\n2.4 \xC9 essencialmente entendido
+    pelo Usu\xE1rio as seguintes condi\xE7\xF5es de uso do Aplicativo Mundo Puket:
+    que o Target, a imagem que ativar\xE1 o personagem em 3D e em Realidade Aumentada,
+    precisa ser compat\xEDvel com a capacidade de leitura e configura\xE7\xE3o do
+    dispositivo; que a dist\xE2ncia do aparelho utilizado em rela\xE7\xE3o ao target
+    \xE9 um fator determinante no sucesso da experi\xEAncia; que, como \xE9 uma pe\xE7a
+    de roupa onde o target ser\xE1 lido, a mesma precisa estar totalmente esticada
+    para favorecer a leitura pelo Aplicativo; que alguns targets/personagens podem
+    n\xE3o ativar a experi\xEAncia em Realidade Aumentada devido ao lote de fabrica\xE7\xE3o
+    da pe\xE7a de roupa.\r\n\r\n2.5 A aceita\xE7\xE3o dos presentes Termos engloba
+    a consci\xEAncia, por parte do Usu\xE1rio, de que a Provedora poder\xE1 utilizar
+    qualquer tipo de conte\xFAdo produzido por meio do aplicativo, sem \xF4nus e/ou
+    b\xF4nus para ela mesma. O Usu\xE1rio \xE9 respons\xE1vel, inclusive perante terceiros,
+    referente a danos ou preju\xEDzos frutos de uso inadequado ou informa\xE7\xF5es
+    erradas, fraudulentas ou incompletas colocadas no Aplicativo.\r\n\r\n2.6 A concord\xE2ncia
+    a estes Termos se faz tamb\xE9m em rela\xE7\xE3o ao contato do conte\xFAdo disponibilizado
+    pelo Aplicativo para a Crian\xE7a ou terceiros, al\xE9m de que a Provedora possui
+    acesso liberado sobre imagens disponibilizadas pelo Usu\xE1rio no Aplicativo.\r\n\r\n3.
+    Pol\xEDtica de Privacidade\r\n\r\n3.1. O Aplicativo Mundo Puket n\xE3o exige dados
+    ou informa\xE7\xF5es pessoais do Usu\xE1rio para ser utilizado. Caso voc\xEA se
+    depare com algum Aplicativo de mesmo nome com esta exig\xEAncia, desconfie e,
+    se quiser por gentileza, avise na se\xE7\xE3o \u2018Fale Conosco\u2019 de nosso
+    site.\r\n\r\n3.2 Todos os itens postados no Aplicativo, por parte do Usu\xE1rio,
+    s\xE3o de responsabilidade do mesmo e estar\xE3o seguros pela criptografia dos
+    algoritmos da plataforma. Caso o Usu\xE1rio queira utilizar o conte\xFAdo da experi\xEAncia
+    dele no Aplicativo de outra forma (leia-se printscreens ou compartilhamento em
+    redes sociais, sites, blogs, e-mails marketing ou outros endere\xE7os eletr\xF4nicos),
+    ele estar\xE1 assumindo a responsabilidade integral da a\xE7\xE3o, inclusive a
+    de n\xE3o denegrir a Provedora.\r\n\r\n3.3 Reiterando o item anterior, por\xE9m
+    na categoria de mensagem armazenada, mesmo o Aplicativo n\xE3o possuindo essa
+    fun\xE7\xE3o (entre o usu\xE1rio e um interlocutor), qualquer tipo de conte\xFAdo
+    que seja configurado nesse estilo estar\xE1 seguro pela criptografia da plataforma.\r\n\r\n4.
+    Regras de Boa Utiliza\xE7\xE3o do Aplicativo\r\n\r\n4.1 Ao concordar com os presentes
+    Termos, o Usu\xE1rio declara:\r\n\r\na) estar, como cidad\xE3o \xE0 luz da legisla\xE7\xE3o
+    do Brasil ou autorizado pelo Respons\xE1vel, interessado em utilizar o Aplicativo;\r\nb)
+    que n\xE3o ir\xE1 adicionar no Aplicativo conte\xFAdos que desrespeitem os objetivos
+    do mesmo, seja contr\xE1rio \xE0 moral e os bons costumes ou que seja inadequado
+    ao p\xFAblico do Aplicativo;\r\nc) que n\xE3o subir\xE1 para o Aplicativo qualquer
+    conte\xFAdo il\xEDcito ou que viole o direito de imagem;\r\nd) ele n\xE3o ir\xE1
+    subir qualquer conte\xFAdo com v\xEDrus incorporados, ou qualquer outro tipo de
+    propriedade intelectual.\r\ne) que n\xE3o fornecer\xE1 informa\xE7\xF5es incorretas
+    ou inver\xEDdicas, assumindo a responsabilidade de danos oriundos de eventuais
+    informa\xE7\xF5es desse tipo.\r\n\r\n4.2 Sobre o uso do Aplicativo, o Usu\xE1rio
+    entende que em qualquer hip\xF3tese ele ser\xE1 o \xFAnico respons\xE1vel, assim
+    como qualquer conte\xFAdo por ele inserido. A Provedora est\xE1 eximida de toda
+    responsabilidade por dano ou preju\xEDzo que ocorrer em fun\xE7\xE3o do uso do
+    Aplicativo.\r\n\r\n5. Propriedade Intelectual\r\n\r\n5.1 Todo o conte\xFAdo audiovisual
+    e sonoro disponibilizado no Aplicativo (os pr\xF3prios personagens, textos, imagens,
+    fotografias, marcas, logotipos, \xEDcones, tecnologias, links), incluindo software,
+    desenhos gr\xE1ficos e c\xF3digos-fonte, pertencem, exclusivamente, \xE0 Provedora
+    e est\xE3o protegidos pelas leis e tratados internacionais, sendo vedada sua c\xF3pia,
+    reprodu\xE7\xE3o ou qualquer outro tipo de utiliza\xE7\xE3o. Os infratores estar\xE3o
+    sujeitos \xE0s san\xE7\xF5es civis e criminais correspondentes, nos termos das
+    Leis 9.279/96, 9.609/98 e 9.610/98.\r\n\r\n5.2 A Puket n\xE3o ser\xE1 a titular
+    quanto \xE0s imagens personalizadas que o Usu\xE1rio disponibilizar por meio do
+    Aplicativo, se eximindo, inclusive, da autoria de fotografias ou montagens criadas
+    pelos usu\xE1rios do Aplicativo. Contudo, a Puket se reserva ao direito de usar
+    tais conte\xFAdos sem \xF4nus e/ou b\xF4nus creditados a ela e refor\xE7a que
+    o Usu\xE1rio \xE9 respons\xE1vel por qualquer conte\xFAdo disponibilizado durante
+    o uso do Aplicativo.\r\n\r\n6. Isen\xE7\xF5es de Responsabilidade\r\n\r\n6.1 Outras
+    isen\xE7\xF5es de responsabilidade da Provedora que o Usu\xE1rio se declara ciente
+    s\xE3o:\r\n\r\n- eventuais falhas, erros ou indisponibilidades do Aplicativo,
+    como tamb\xE9m do uso fraudulento que o Usu\xE1rio possa ter atribu\xEDdo ao Aplicativo;\r\n-
+    conex\xE3o de internet est\xE1vel e transmiss\xE3o de dados necess\xE1ria para
+    que o Aplicativo seja utilizado com qualidade;\r\n- elementos nocivos presentes
+    no Aplicativo ou no sistema do Usu\xE1rio, isentando a Provedora da responsabilidade
+    de danos ou preju\xEDzos oriundos de elementos inseridos por terceiros;\r\n- a\xE7\xF5es
+    realizadas por terceiros n\xE3o autorizados no Aplicativo, em falhas relacionadas
+    ao Usu\xE1rio ou a terceiros que n\xE3o competem controle por parte da Provedora;\r\n-
+    nos casos de uso de imagens de Crian\xE7as (sem a autoriza\xE7\xE3o pr\xE9via
+    dos respons\xE1veis destas) ou terceiros ao Usu\xE1rio.\r\n\r\n7. Dura\xE7\xE3o
+    e Finaliza\xE7\xE3o do Acesso\r\n\r\n7.1 O Mundo Puket \xE9 um aplicativo com
+    disponibiliza\xE7\xE3o em prazo definido pela Provedora, que poder\xE1 modificar,
+    suspender ou encerrar o acesso a qualquer momento, sem comunicado pr\xE9vio ou
+    indeniza\xE7\xE3o ao Usu\xE1rio.\r\n\r\n7.2 Sempre que quiser, a Provedora poder\xE1
+    verificar como o Usu\xE1rio tem utilizado o Aplicativo, para identificar a\xE7\xF5es
+    discordantes aos presentes Termos. Em caso de viola\xE7\xF5es (a este documento
+    ou a qualquer dispositivo legal do ordenamento jur\xEDdico brasileiro), a Provedora
+    poder\xE1 tomar as medidas cab\xEDveis, al\xE9m das penalidades c\xEDveis e penais
+    cab\xEDveis.\r\n\r\n8. Disposi\xE7\xF5es Gerais\r\n\r\n8.1 Caso alguma condi\xE7\xE3o
+    deste documento seja anulada por qualquer ju\xEDzo ou tribunal, as demais condi\xE7\xF5es
+    se manter\xE3o v\xE1lidas.\r\n\r\n8.2 A Provedora det\xE9m o direito de exigir
+    qualquer das disposi\xE7\xF5es prescritas, tudo dentro dos prazos legais.\r\n\r\n8.3
+    A atualiza\xE7\xE3o dos Termos deste documento pode ser feita sempre que necess\xE1rio.
+    O Usu\xE1rio s\xF3 ser\xE1 avisado se houver obriga\xE7\xE3o legal para isto.
+    Portanto \xE9 recomendado que o Usu\xE1rio leia os presentes Termos a cada novo
+    acesso. Caso ele n\xE3o concorde com a nova vers\xE3o dos Termos, caber\xE1 ao
+    Usu\xE1rio parar de usar o Aplicativo.\r\n\r\n9. Legisla\xE7\xE3o e Foro\r\n\r\n9.1
+    Toda a rela\xE7\xE3o jur\xEDdica envolvida neste documento \xE9 exclusividade
+    das leis brasileiras, inclusive as a\xE7\xF5es de viola\xE7\xE3o dos termos.\r\n\r\n9.2
+    O Foro da Comarca de S\xE3o Paulo fica eleito para esclarecer as quest\xF5es dos
+    presentes Termos, renunciando alguma parte, se for preciso."
+--- !u!114 &114555962755243842
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1786432474508250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.92549026, g: 0.5176471, b: 0.7137255, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114566614680803354
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1645784795837878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShowMaskGraphic: 0
+--- !u!114 &114574653848668574
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1630542217293416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c10358c61245f594ebca67a38f16a1e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  identifier: terms_panel
+--- !u!114 &114603960633043272
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1739619185719662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114919060081755060}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_MethodName: CloseTerms_OnClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114625180728266300
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1940687467529092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114555962755243842}
+  m_HandleRect: {fileID: 224213522374121100}
+  m_Direction: 2
+  m_Value: 1
+  m_Size: 0.09599713
+  m_NumberOfSteps: 0
+  m_OnValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.Scrollbar+ScrollEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114752210215371552
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1026330842820824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114812139258443246
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1645784795837878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114919060081755060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1283515313883590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.47058827, g: 0.8588236, b: 0.85098046, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 8c0dbd1f71a7dd943bc049cbab1aaae8, type: 3}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114966981161892270
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1188132043405608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c10358c61245f594ebca67a38f16a1e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  identifier: terms_button_confirm_text
+--- !u!222 &222054351930467664
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1188132043405608}
+--- !u!222 &222096520394879344
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1026330842820824}
+--- !u!222 &222216309576275548
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1283515313883590}
+--- !u!222 &222353362865954010
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1480262297077236}
+--- !u!222 &222589628461505104
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1630542217293416}
+--- !u!222 &222694736960262774
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1801927223928028}
+--- !u!222 &222778306514749272
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1940687467529092}
+--- !u!222 &222915069774823040
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1739619185719662}
+--- !u!222 &222961320826310620
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1645784795837878}
+--- !u!222 &222971272002277286
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1786432474508250}
+--- !u!222 &222979972845987452
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1005775411902226}
+--- !u!224 &224022175035845972
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1739619185719662}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.3594114, y: 1.3594114, z: 1.3594114}
+  m_Children:
+  - {fileID: 224975441494096862}
+  - {fileID: 224494602847352582}
+  m_Father: {fileID: 224103066246170606}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: -24, y: -16395}
+  m_SizeDelta: {x: 237, y: 108}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224103066246170606
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1505576216232442}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224675509999018700}
+  - {fileID: 224022175035845972}
+  m_Father: {fileID: 224517410379963148}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -0.00006829202}
+  m_SizeDelta: {x: 0, y: 16505}
+  m_Pivot: {x: 0, y: 1}
+--- !u!224 &224213522374121100
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1786432474508250}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224323551774328752}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 20, y: 20}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224323551774328752
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1165344359612650}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224213522374121100}
+  m_Father: {fileID: 224413965086186408}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: -20, y: -20}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224413965086186408
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1940687467529092}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224323551774328752}
+  m_Father: {fileID: 224755273020575870}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 20, y: 0}
+  m_Pivot: {x: 1, y: 1}
+--- !u!224 &224494602847352582
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1188132043405608}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.18118715, y: 0.1811873, z: 0.1811873}
+  m_Children: []
+  m_Father: {fileID: 224022175035845972}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 1179.6, y: 513}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224517410379963148
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1645784795837878}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224103066246170606}
+  m_Father: {fileID: 224755273020575870}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 1}
+--- !u!224 &224675509999018700
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1801927223928028}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.22705716, y: 0.22705716, z: 0.22705716}
+  m_Children: []
+  m_Father: {fileID: 224103066246170606}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -80}
+  m_SizeDelta: {x: 2495, y: 70728}
+  m_Pivot: {x: 0.5, y: 1}
+--- !u!224 &224755273020575870
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1630542217293416}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224970348158831072}
+  - {fileID: 224517410379963148}
+  - {fileID: 224878690167569392}
+  - {fileID: 224413965086186408}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224827990651152842
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1480262297077236}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224949333045135682}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 20, y: 20}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224878690167569392
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1005775411902226}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224949333045135682}
+  m_Father: {fileID: 224755273020575870}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 20}
+  m_Pivot: {x: 0, y: 0}
+--- !u!224 &224949333045135682
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1657965742753182}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224827990651152842}
+  m_Father: {fileID: 224878690167569392}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: -20, y: -20}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224970348158831072
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1026330842820824}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224755273020575870}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224975441494096862
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1283515313883590}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.15177955, y: 0.15177956, z: 0.15177956}
+  m_Children: []
+  m_Father: {fileID: 224022175035845972}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 1479.7, y: 627.1}
+  m_Pivot: {x: 0.5, y: 0.5}

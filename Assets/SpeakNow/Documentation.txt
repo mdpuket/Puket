@@ -1,0 +1,63 @@
+: : Unity SpeakNow Plugin : :
+: : Version 3.0.0         : :
+: : Vishnu Gude           : :
+
+Make Sure You have SpeakNow.cs script in SpeakNow folder in your assests along with Plugins folder...Dont edit that file without any proper Knowledge.Just follow these instructions to use functionalities.
+
+
+1.Starting Speak function
+
+First choose your languge from suported languages. Look at LanguageUtil for list of supported languages.
+
+TO start Speak functionality without popup call the function SpeakNow.startSpeech("language tag here");
+EX: SpeakNow.startSpeech(LanguageUtil.ENGLISH_US) // US English
+	SpeakNow.startSpeech(LanguageUtil.KOREAN)		// Korean
+
+The result is passed as a string ...so just create a string variable in your script and assign to SpeakNow.speechResult()
+
+We inserted a demo scene and test script ...Just check those to know more about using this feature.
+
+2.Get the Confidence Score for Speech
+
+To get the confidence Score in String value for Speech Result ... Use this feature
+
+Ex : SpeakNow.getConfidenceScore();
+
+3.Reset the Speech result and Confidence Score Values
+
+To reset the old speech result and Confidence Score just call this function.
+
+Ex :SpeechToText.reset();
+
+4.Get list of matching results.
+
+To get all matching results for the speech use SpeakNow.getListOfWords().
+
+It gives an array of results.
+
+5.Get list of confidence scores
+
+To get confidence scores for the list of results use SpeakNow.getListOfConfidenceScores(),
+
+It gives an array of confidence scores.
+
+6.Check for matching result.
+
+If you want to check whether the speech matches to particular result use SpeakNow.isResultMatches("string to check").
+
+It returns true only if it matches exactly.
+
+
+We inserted a demo scene and test script ...Just check those to know more about using this feature.
+
+
+If you have any Questions regarding the usage..Contact meusing following ways. I will give support as quick as possible.
+
+1. Send me a Message in Unity.
+2. Reply in SpeakNow support thread in unity forums.
+3. Skype: vishnugude
+4. gmail: gvishnupraveen@gmail.com
+
+
+Thanking You,
+Vishnu Gude

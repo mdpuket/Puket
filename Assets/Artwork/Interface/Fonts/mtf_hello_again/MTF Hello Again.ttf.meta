@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bc3ba96a7a1743e43b776d62388b1dac
+timeCreated: 1500049431
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MTF Hello Again
+  fontNames:
+  - MTF Hello Again
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

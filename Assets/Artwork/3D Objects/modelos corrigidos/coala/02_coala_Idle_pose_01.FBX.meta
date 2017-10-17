@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 973e58b8827c8c74da70bcd325025592
+timeCreated: 1502506955
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArvoreBone_1
+    100004: ArvoreBone_2
+    100006: ArvoreBone_3
+    100008: ArvoreBone_4
+    100010: ArvoreBone_5
+    100012: ArvoreBone_6
+    100014: Bip001
+    100016: Bip001 Head
+    100018: Bip001 L Calf
+    100020: Bip001 L Clavicle
+    100022: Bip001 L Foot
+    100024: Bip001 L Forearm
+    100026: Bip001 L Hand
+    100028: Bip001 L Thigh
+    100030: Bip001 L Toe0
+    100032: Bip001 L UpperArm
+    100034: Bip001 Neck
+    100036: Bip001 Pelvis
+    100038: Bip001 R Calf
+    100040: Bip001 R Clavicle
+    100042: Bip001 R Foot
+    100044: Bip001 R Forearm
+    100046: Bip001 R Hand
+    100048: Bip001 R Thigh
+    100050: Bip001 R Toe0
+    100052: Bip001 R UpperArm
+    100054: Bip001 Spine
+    100056: Bip001 Spine1
+    100058: Bip001 Spine2
+    100060: Bip001 Spine3
+    100062: Bip001 Tail
+    100064: Bone001
+    100066: Bone003
+    100068: Bone005
+    100070: Bone008
+    100072: Bone009
+    100074: Bone011
+    100076: Bone013
+    100078: Bone015
+    100080: Bone017
+    100082: Bone019
+    100084: Bone022
+    100086: Bone024
+    100088: Bone026
+    100090: Bone028
+    100092: Bone030
+    100094: Bone031
+    100096: Bone032
+    100098: Bone033
+    100100: Bone034
+    100102: Bone035
+    100104: Bone036
+    100106: Bone037
+    100108: Bone038
+    100110: Foolinha_1
+    100112: Foolinha_2
+    100114: Foolinha_3
+    100116: Foolinha_4
+    100118: Orelha_013
+    100120: Orelha_014
+    100122: Orelha_015
+    100124: Orelha_016
+    100126: Orelha_08
+    100128: Orelha_09
+    100130: Orelha_10
+    100132: Orelha_12
+    100134: Point_019
+    100136: Point_020
+    100138: Point_021
+    100140: Point_022
+    100142: Point_023
+    100144: Point_024
+    100146: Point_025
+    100148: Point_026
+    100150: Point_1
+    100152: Point_10
+    100154: Point_11
+    100156: Point_12
+    100158: Point_14
+    100160: Point_16
+    100162: Point_18
+    100164: Point_2
+    100166: Point_3
+    100168: Point_4
+    100170: Point_5
+    100172: Point_6
+    100174: Point_7
+    100176: Point_8
+    100178: Point_9
+    100180: tapa olhoBone
+    400000: //RootNode
+    400002: ArvoreBone_1
+    400004: ArvoreBone_2
+    400006: ArvoreBone_3
+    400008: ArvoreBone_4
+    400010: ArvoreBone_5
+    400012: ArvoreBone_6
+    400014: Bip001
+    400016: Bip001 Head
+    400018: Bip001 L Calf
+    400020: Bip001 L Clavicle
+    400022: Bip001 L Foot
+    400024: Bip001 L Forearm
+    400026: Bip001 L Hand
+    400028: Bip001 L Thigh
+    400030: Bip001 L Toe0
+    400032: Bip001 L UpperArm
+    400034: Bip001 Neck
+    400036: Bip001 Pelvis
+    400038: Bip001 R Calf
+    400040: Bip001 R Clavicle
+    400042: Bip001 R Foot
+    400044: Bip001 R Forearm
+    400046: Bip001 R Hand
+    400048: Bip001 R Thigh
+    400050: Bip001 R Toe0
+    400052: Bip001 R UpperArm
+    400054: Bip001 Spine
+    400056: Bip001 Spine1
+    400058: Bip001 Spine2
+    400060: Bip001 Spine3
+    400062: Bip001 Tail
+    400064: Bone001
+    400066: Bone003
+    400068: Bone005
+    400070: Bone008
+    400072: Bone009
+    400074: Bone011
+    400076: Bone013
+    400078: Bone015
+    400080: Bone017
+    400082: Bone019
+    400084: Bone022
+    400086: Bone024
+    400088: Bone026
+    400090: Bone028
+    400092: Bone030
+    400094: Bone031
+    400096: Bone032
+    400098: Bone033
+    400100: Bone034
+    400102: Bone035
+    400104: Bone036
+    400106: Bone037
+    400108: Bone038
+    400110: Foolinha_1
+    400112: Foolinha_2
+    400114: Foolinha_3
+    400116: Foolinha_4
+    400118: Orelha_013
+    400120: Orelha_014
+    400122: Orelha_015
+    400124: Orelha_016
+    400126: Orelha_08
+    400128: Orelha_09
+    400130: Orelha_10
+    400132: Orelha_12
+    400134: Point_019
+    400136: Point_020
+    400138: Point_021
+    400140: Point_022
+    400142: Point_023
+    400144: Point_024
+    400146: Point_025
+    400148: Point_026
+    400150: Point_1
+    400152: Point_10
+    400154: Point_11
+    400156: Point_12
+    400158: Point_14
+    400160: Point_16
+    400162: Point_18
+    400164: Point_2
+    400166: Point_3
+    400168: Point_4
+    400170: Point_5
+    400172: Point_6
+    400174: Point_7
+    400176: Point_8
+    400178: Point_9
+    400180: tapa olhoBone
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

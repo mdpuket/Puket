@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SpeakNow/SpeakNow.unity
+    guid: 7ae73f7a5fd9e3a4bbba5f3ae0483318
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: adae0ab780fd5f24aba20145dd733b35
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: a7b58e6a609d1734182d30c65b785899
+  - enabled: 0
+    path: Assets/Scenes/characterselect.unity
+    guid: 5c65d32e45120ca4f9aed5818ea43ed3
+  - enabled: 1
+    path: Assets/Scenes/ar.unity
+    guid: 83e777f5dbb2c564d8e42309e01278f4

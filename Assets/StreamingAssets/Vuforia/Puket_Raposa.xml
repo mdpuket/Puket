@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="raposa_2_1" size="100.000000 100.000000" />
+    <ImageTarget name="raposa8" size="100.000000 100.000000" />
+    <ImageTarget name="raposa7" size="100.000000 100.000000" />
+    <ImageTarget name="raposa6" size="100.000000 100.000000" />
+    <ImageTarget name="raposa5" size="100.000000 100.000000" />
+    <ImageTarget name="raposa4" size="100.000000 100.000000" />
+    <ImageTarget name="raposa3" size="100.000000 100.000000" />
+    <ImageTarget name="raposa2" size="100.000000 100.000000" />
+    <ImageTarget name="raposa1" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>

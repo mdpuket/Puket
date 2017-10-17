@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 0f279ed5a83d3d34cbed3ed715dc5a99
+timeCreated: 1500942797
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone003
+    100004: Bone005
+    100006: Bone007
+    100008: Bone009
+    100010: Bone011
+    100012: Bone013
+    100014: Bone015
+    100016: Bone017
+    100018: Bone019
+    100020: Bone021
+    100022: Bone027
+    100024: Bone029
+    100026: Bone031
+    100028: Bone033
+    100030: Bone035
+    100032: Bone037
+    100034: Bone039
+    100036: Bone055
+    100038: Bone056
+    100040: Bone057
+    100042: Bone058
+    100044: Bone059
+    100046: Bone060
+    100048: Bone061
+    100050: Bone062
+    100052: Bone063
+    100054: Bone064
+    100056: Bone065
+    100058: Bone066
+    100060: Bone067
+    100062: Bone068
+    100064: Bone069
+    100066: Bone070
+    100068: Panda
+    100070: panda
+    100072: panda Head
+    100074: panda L Calf
+    100076: panda L Clavicle
+    100078: panda L Finger0
+    100080: panda L Foot
+    100082: panda L Forearm
+    100084: panda L Hand
+    100086: panda L Thigh
+    100088: panda L Toe0
+    100090: panda L UpperArm
+    100092: panda Neck
+    100094: panda Pelvis
+    100096: panda Ponytail1
+    100098: panda Ponytail11
+    100100: panda Ponytail12
+    100102: panda Ponytail2
+    100104: panda Ponytail21
+    100106: panda Ponytail22
+    100108: panda R Calf
+    100110: panda R Clavicle
+    100112: panda R Finger0
+    100114: panda R Foot
+    100116: panda R Forearm
+    100118: panda R Hand
+    100120: panda R Thigh
+    100122: panda R Toe0
+    100124: panda R UpperArm
+    100126: panda Spine
+    100128: panda Spine1
+    100130: panda Spine2
+    100132: panda Spine3
+    100134: panda Tail
+    100136: Point_032
+    100138: Point_033
+    100140: Point_1
+    100142: Point_10
+    100144: Point_11
+    100146: Point_12
+    100148: Point_13
+    100150: Point_14
+    100152: Point_15
+    100154: Point_16
+    100156: Point_17
+    100158: Point_18
+    100160: Point_19
+    100162: Point_2
+    100164: Point_20
+    100166: Point_21
+    100168: Point_22
+    100170: Point_23
+    100172: Point_24
+    100174: Point_25
+    100176: Point_26
+    100178: Point_27
+    100180: Point_28
+    100182: Point_29
+    100184: Point_3
+    100186: Point_30
+    100188: Point_31
+    100190: Point_4
+    100192: Point_5
+    100194: Point_6
+    100196: Point_7
+    100198: Point_8
+    100200: Point_9
+    400000: //RootNode
+    400002: Bone003
+    400004: Bone005
+    400006: Bone007
+    400008: Bone009
+    400010: Bone011
+    400012: Bone013
+    400014: Bone015
+    400016: Bone017
+    400018: Bone019
+    400020: Bone021
+    400022: Bone027
+    400024: Bone029
+    400026: Bone031
+    400028: Bone033
+    400030: Bone035
+    400032: Bone037
+    400034: Bone039
+    400036: Bone055
+    400038: Bone056
+    400040: Bone057
+    400042: Bone058
+    400044: Bone059
+    400046: Bone060
+    400048: Bone061
+    400050: Bone062
+    400052: Bone063
+    400054: Bone064
+    400056: Bone065
+    400058: Bone066
+    400060: Bone067
+    400062: Bone068
+    400064: Bone069
+    400066: Bone070
+    400068: Panda
+    400070: panda
+    400072: panda Head
+    400074: panda L Calf
+    400076: panda L Clavicle
+    400078: panda L Finger0
+    400080: panda L Foot
+    400082: panda L Forearm
+    400084: panda L Hand
+    400086: panda L Thigh
+    400088: panda L Toe0
+    400090: panda L UpperArm
+    400092: panda Neck
+    400094: panda Pelvis
+    400096: panda Ponytail1
+    400098: panda Ponytail11
+    400100: panda Ponytail12
+    400102: panda Ponytail2
+    400104: panda Ponytail21
+    400106: panda Ponytail22
+    400108: panda R Calf
+    400110: panda R Clavicle
+    400112: panda R Finger0
+    400114: panda R Foot
+    400116: panda R Forearm
+    400118: panda R Hand
+    400120: panda R Thigh
+    400122: panda R Toe0
+    400124: panda R UpperArm
+    400126: panda Spine
+    400128: panda Spine1
+    400130: panda Spine2
+    400132: panda Spine3
+    400134: panda Tail
+    400136: Point_032
+    400138: Point_033
+    400140: Point_1
+    400142: Point_10
+    400144: Point_11
+    400146: Point_12
+    400148: Point_13
+    400150: Point_14
+    400152: Point_15
+    400154: Point_16
+    400156: Point_17
+    400158: Point_18
+    400160: Point_19
+    400162: Point_2
+    400164: Point_20
+    400166: Point_21
+    400168: Point_22
+    400170: Point_23
+    400172: Point_24
+    400174: Point_25
+    400176: Point_26
+    400178: Point_27
+    400180: Point_28
+    400182: Point_29
+    400184: Point_3
+    400186: Point_30
+    400188: Point_31
+    400190: Point_4
+    400192: Point_5
+    400194: Point_6
+    400196: Point_7
+    400198: Point_8
+    400200: Point_9
+    4300000: Panda
+    9500000: //RootNode
+    13700000: Panda
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

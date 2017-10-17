@@ -1,0 +1,6 @@
+FocusCamera.cs
+  - Colocar dentro de qualquer pasta do projeto
+  - Arrastar o script pra dentro da camera da Vuforia, na cena
+
+DefaultTrackableEventHandler.cs
+  - Colocar dentro de Assets/Vuforia/Scripts, substituindo o script de mesmo nome que estará lá
